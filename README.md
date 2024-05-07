@@ -19,3 +19,5 @@ Link Youtube: https://www.youtube.com/@tienganhvalaptrinh
 [01. Cách gọi REST API bằng Visual Studio 2022](https://github.com/HoangCaoPhi/Posts/blob/main/NetCore/01.%20C%C3%A1ch%20g%E1%BB%8Di%20REST%20API%20b%E1%BA%B1ng%20Visual%20Studio%202022%20-%20Copy.md)
 
 [02. Tìm hiểu về Options pattern trong .NET Core](https://github.com/HoangCaoPhi/Posts/blob/main/NetCore/02.%20T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20Options%20pattern%20trong%20.NET%20Core.md)
+
+## Design Pattern
