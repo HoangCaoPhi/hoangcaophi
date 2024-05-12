@@ -2,11 +2,6 @@
  
  ### Working
  - 🔭 I’m currently working on Web application with VueJS, Angular and .NET;
- ### Project
- 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=hoangcaophi&hide=issues&show_icons=true)](https://github.com/hoangcaophi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangcaophi&layout=compact)](https://github.com/hoangcaophi)
-
 Link Youtube: https://www.youtube.com/@tienganhvalaptrinh
 ## Bài viết về UnitTest
 [01. Giới thiệu về Unit Test trong .NET](https://github.com/HoangCaoPhi/Posts/blob/main/UnitTest%20c%C6%A1%20b%E1%BA%A3n/01.%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Unit%20Test%20trong%20.NET.md)
@@ -24,3 +19,8 @@ Link Youtube: https://www.youtube.com/@tienganhvalaptrinh
 
 ## ReactJS
 [Tìm hiểu về React](https://github.com/HoangCaoPhi/hands_on_react)
+
+ ### Project
+ 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=hoangcaophi&hide=issues&show_icons=true)](https://github.com/hoangcaophi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangcaophi&layout=compact)](https://github.com/hoangcaophi)
