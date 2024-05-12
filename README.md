@@ -21,3 +21,6 @@ Link Youtube: https://www.youtube.com/@tienganhvalaptrinh
 [02. Tìm hiểu về Options pattern trong .NET Core](https://github.com/HoangCaoPhi/Posts/blob/main/NetCore/02.%20T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20Options%20pattern%20trong%20.NET%20Core.md)
 
 ## Design Pattern
+
+## ReactJS
+[Tìm hiểu về React](https://github.com/HoangCaoPhi/hands_on_react)
