@@ -1,8 +1,10 @@
  ## Hoàng Cao Phi - Web Developer
  
  ### Working
- - 🔭 I’m currently working on Web application with VueJS, Angular and .NET;
+ - 🔭 I’m currently working on Web application with VueJS, Angular and .NET
+
 Link Youtube: https://www.youtube.com/@tienganhvalaptrinh
+
 ## Bài viết về UnitTest
 [01. Giới thiệu về Unit Test trong .NET](https://github.com/HoangCaoPhi/Posts/blob/main/UnitTest%20c%C6%A1%20b%E1%BA%A3n/01.%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Unit%20Test%20trong%20.NET.md)
 
