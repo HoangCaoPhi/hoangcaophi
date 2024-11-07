@@ -19,8 +19,6 @@ Link Youtube: https://www.youtube.com/@tienganhvalaptrinh
 
 ## Design Pattern
 
-## ReactJS
-[Tìm hiểu về React](https://github.com/HoangCaoPhi/hands_on_react)
 
  ### Project
  
